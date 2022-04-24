@@ -1,0 +1,10 @@
+h1 {
+    color: rgb(27, 48, 69);
+    background-color: red;
+    font-size: 12px;
+    width: 530px;
+    height: 200px;
+    text-align: center;
+    margin: auto;
+    font-family: sans-serif;
+}
